@@ -1,4 +1,4 @@
-#Meu primeiro projeto HTML e CSS# 
+# Meu primeiro projeto HTML e CSS # 
 Sobre o projeto 
 Este projeto foi desenvolvido como uma atividade prática para aprender e aplicar os conceitos básicos de desenvolvimento web utilizando HTML e CSS 
 
